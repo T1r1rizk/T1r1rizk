@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Remon</h1>
-<h3 align="center">💻 A passionate DevSecOps Engineer from Egypt</h3>
+<h3 align="center">🔐 DevSecOps Engineer | Cloud • Security • Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=t1r1rizk&label=Profile%20views&color=0e75b6&style=flat" alt="t1r1rizk" />
@@ -7,65 +7,98 @@
 
 ---
 
-### 🌱 Currently Learning
-- DevSecOps, Cloud Security, and Secure CI/CD pipelines.
+## 🚀 About Me
+I’m a **DevSecOps Engineer** passionate about **secure cloud infrastructure, CI/CD automation, container orchestration, and defensive security**.
 
-### 📫 How to Reach Me
-- Email: **trizk30@gmail.com**
+I enjoy building **production-ready systems**, securing pipelines, hardening Linux servers, and integrating **AI & observability** into modern DevOps workflows.
+
+- 🎓 DevSecOps Diploma (Red Hat, Linux, Bash, Python, CI/CD, Security)
+- 🛡️ Strong interest in **Cloud Security & Infrastructure Hardening**
+- ⚙️ Hands-on with **Docker, Kubernetes, Monitoring, and Automation**
+- 🤖 Experimenting with **AI Agents, RAG pipelines, pgvector & n8n**
+- 📍 Based in Egypt — open to remote opportunities
 
 ---
 
-## 🧠 Languages
+## 🌱 Currently Working On
+- Secure **CI/CD pipelines** (DevSecOps practices)
+- **Kubernetes clusters** (multi-node, production-style)
+- Monitoring & logging stacks (**Prometheus / Grafana / system metrics**)
+- **AI-powered DevOps tools** (RAG, agents, workflow automation)
+- Infrastructure containerization & deployment
+
+---
+
+## 🧠 Core Skills
+
+### 🛠️ DevOps & Cloud
+- Docker & Docker Compose  
+- Kubernetes (cluster setup, workloads, services)  
+- Linux System Administration (RHEL-based)  
+- CI/CD pipelines & automation  
+- Monitoring & observability  
+- Infrastructure hardening & security basics  
+
+### 🔐 Security
+- DevSecOps principles  
+- Secure pipelines & secrets handling  
+- Linux security fundamentals  
+- Vulnerability awareness & defensive security  
+- Cloud & container security concepts  
+
+---
+
+## 🧩 Programming Languages
 <p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="filter: brightness(50%) saturate(100%) invert(1);"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
 </p>
 
 ---
 
-## 🧰 Tools
+## ⚙️ Technologies & Tools
 <p align="left">
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.framer.com/"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
-  <a href="https://wordpress.org/"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
 </p>
 
 ---
 
-## 🚀 Technologies & Frameworks
-<p align="left">
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: brightness(50%) saturate(100%) invert(1);"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="filter: invert(1);"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-</p>
+## 🧪 Notable Projects
+- ♻️ **EcoCycle App** — Flutter app promoting sustainable recycling  
+- 🚗 **RapidRescue** — Roadside assistance app (Flutter + FastAPI + Docker)  
+- 🏠 **Real Estate Platforms** — React / Next.js apps with admin systems  
+- 🤖 **AI Pipelines** — RAG systems using pgvector, Ollama & n8n  
+- ⚙️ **DevOps Labs** — Kubernetes clusters, monitoring & automation setups  
+
+> Repositories focus on **real-world architecture**, not tutorials.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t1r1rizk&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=t1r1rizk&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1r1rizk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1r1rizk&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎞️ Fun Animation
+## 📫 Contact
+- 📧 Email: **trizk30@gmail.com**
+- 💼 Open to **DevOps / DevSecOps / Cloud roles**
+
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 </p>
