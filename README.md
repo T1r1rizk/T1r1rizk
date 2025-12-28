@@ -7,79 +7,112 @@
 
 ---
 
-## 🚀 About Me
-I’m a **DevSecOps Engineer** passionate about **secure cloud infrastructure, CI/CD automation, container orchestration, and defensive security**.
+## 🚀 Professional Summary
+DevSecOps Engineer with hands-on experience in **Linux system administration, containerized applications, CI/CD pipelines, Kubernetes clusters, monitoring stacks, and secure infrastructure design**.
 
-I enjoy building **production-ready systems**, securing pipelines, hardening Linux servers, and integrating **AI & observability** into modern DevOps workflows.
+Strong background in **backend & mobile development**, enabling deep collaboration between development and operations. Passionate about **cloud security, automation, and AI-powered DevOps workflows**.
 
-- 🎓 DevSecOps Diploma (Red Hat, Linux, Bash, Python, CI/CD, Security)
-- 🛡️ Strong interest in **Cloud Security & Infrastructure Hardening**
-- ⚙️ Hands-on with **Docker, Kubernetes, Monitoring, and Automation**
-- 🤖 Experimenting with **AI Agents, RAG pipelines, pgvector & n8n**
-- 📍 Based in Egypt — open to remote opportunities
-
----
-
-## 🌱 Currently Working On
-- Secure **CI/CD pipelines** (DevSecOps practices)
-- **Kubernetes clusters** (multi-node, production-style)
-- Monitoring & logging stacks (**Prometheus / Grafana / system metrics**)
-- **AI-powered DevOps tools** (RAG, agents, workflow automation)
-- Infrastructure containerization & deployment
+- 🎓 DevSecOps Diploma (Red Hat • Linux • Bash • Python • Security)
+- 🐧 Strong Linux & system internals knowledge
+- ⚙️ Production-style container & Kubernetes environments
+- 🔐 Security-first mindset (DevSecOps)
+- 🤖 AI pipelines (RAG, agents, workflow automation)
 
 ---
 
-## 🧠 Core Skills
+## 💼 Technical Experience
 
-### 🛠️ DevOps & Cloud
-- Docker & Docker Compose  
+### 🔧 DevOps & Infrastructure
+- Built and managed **Dockerized applications** using Docker & Docker Compose
+- Designed **multi-container architectures** (API + DB + services)
+- Setting up **Kubernetes clusters** (multi-node, real-world topology)
+- Managing **20+ containers** across multiple servers
+- Linux server administration (users, services, networking, permissions)
+- Infrastructure troubleshooting & performance tuning
+
+### 🔐 DevSecOps & Security
+- Applying **DevSecOps practices** in CI/CD pipelines
+- Secure secrets handling & environment isolation
+- Linux security fundamentals (permissions, services, hardening basics)
+- Understanding of common vulnerabilities & attack surfaces
+- Experience from **52-hour cybersecurity training**
+  - Reconnaissance
+  - Vulnerability scanning
+  - Exploiting basic vulnerabilities
+  - Defensive security awareness
+
+### 📊 Monitoring & Observability
+- Initializing **monitoring stacks** (system & container metrics)
+- Observability mindset for production systems
+- Planning alerting & performance tracking
+
+### 🤖 AI & Automation
+- Building **RAG pipelines** using:
+  - PostgreSQL + pgvector
+  - Ollama LLMs
+  - LangChain / LangGraph concepts
+- Workflow automation using **n8n**
+- Experimenting with **AI agents for DevOps tasks**
+
+---
+
+## 🧠 Skill Set
+
+### 🛠️ DevOps / Cloud
+- Docker, Docker Compose  
 - Kubernetes (cluster setup, workloads, services)  
-- Linux System Administration (RHEL-based)  
-- CI/CD pipelines & automation  
-- Monitoring & observability  
-- Infrastructure hardening & security basics  
+- Linux (RHEL-based administration)  
+- CI/CD concepts & automation  
+- Infrastructure troubleshooting  
 
 ### 🔐 Security
 - DevSecOps principles  
-- Secure pipelines & secrets handling  
+- Secure CI/CD pipelines  
 - Linux security fundamentals  
-- Vulnerability awareness & defensive security  
-- Cloud & container security concepts  
+- Vulnerability awareness  
+- Cloud & container security basics  
+
+### 🧩 Backend & Development
+- REST APIs (FastAPI, Express.js)
+- Database design & integration
+- Backend containerization
+- API testing & documentation (Postman, Swagger)
 
 ---
 
-## 🧩 Programming Languages
+## 🧪 Tech Stack
+
+### 🧠 Programming Languages
 <p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+</p>
+
+### ⚙️ Technologies & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
 
 ---
 
-## ⚙️ Technologies & Tools
-<p align="left">
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
-</p>
-
----
-
-## 🧪 Notable Projects
+## 🚀 Selected Projects
 - ♻️ **EcoCycle App** — Flutter app promoting sustainable recycling  
-- 🚗 **RapidRescue** — Roadside assistance app (Flutter + FastAPI + Docker)  
+- 🚗 **RapidRescue** — Roadside assistance app  
+  - Flutter frontend  
+  - FastAPI backend  
+  - PostgreSQL + Docker  
 - 🏠 **Real Estate Platforms** — React / Next.js apps with admin systems  
-- 🤖 **AI Pipelines** — RAG systems using pgvector, Ollama & n8n  
-- ⚙️ **DevOps Labs** — Kubernetes clusters, monitoring & automation setups  
-
-> Repositories focus on **real-world architecture**, not tutorials.
+- 🤖 **AI DevOps Pipelines** — RAG systems with pgvector, Ollama & n8n  
+- ⚙️ **DevOps Labs** — Kubernetes clusters, monitoring & automation
 
 ---
 
@@ -95,9 +128,7 @@ I enjoy building **production-ready systems**, securing pipelines, hardening Lin
 
 ## 📫 Contact
 - 📧 Email: **trizk30@gmail.com**
-- 💼 Open to **DevOps / DevSecOps / Cloud roles**
-
----
+- 💼 Open to **DevOps / DevSecOps / Cloud Engineer roles**
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
