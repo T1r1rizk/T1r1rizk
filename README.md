@@ -12,7 +12,7 @@ DevSecOps Engineer with hands-on experience in **Linux system administration, co
 
 Strong background in **backend & mobile development**, enabling deep collaboration between development and operations. Passionate about **cloud security, automation, and AI-powered DevOps workflows**.
 
-- 🎓 DevSecOps Diploma (Red Hat • Linux • Bash • Python • Security)
+- 🎓 DevSecOps Courses (Red Hat • Linux • Bash • Python • CI/CD Pipelines (Jenkins & Github Actions) • Git/Github • Docker • Kubernetes • Observability Stack (Grafana, Prometheus, Loki) • Security)
 - 🐧 Strong Linux & system internals knowledge
 - ⚙️ Production-style container & Kubernetes environments
 - 🔐 Security-first mindset (DevSecOps)
@@ -87,20 +87,84 @@ Strong background in **backend & mobile development**, enabling deep collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
 </p>
 
-### ⚙️ Technologies & Tools
+---
+
+### ⚙️ DevOps, Cloud & Infrastructure
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
+
+---
+
+### 🔐 DevSecOps & Cybersecurity
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40"/>
+</p>
+
+---
+
+### 📊 Monitoring, Logging & Observability
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="40"/>
+</p>
+
+---
+
+### 🗄️ Databases & Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+</p>
+
+---
+
+### 🎨 Frontend & Mobile
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+</p>
+
+---
+
+### 🤖 AI, Automation & Data
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
+</p>
+
 
 ---
 
@@ -110,9 +174,9 @@ Strong background in **backend & mobile development**, enabling deep collaborati
   - Flutter frontend  
   - FastAPI backend  
   - PostgreSQL + Docker  
-- 🏠 **Real Estate Platforms** — React / Next.js apps with admin systems  
-- 🤖 **AI DevOps Pipelines** — RAG systems with pgvector, Ollama & n8n  
-- ⚙️ **DevOps Labs** — Kubernetes clusters, monitoring & automation
+- 🏠 **Real Estate Platform** — React / Next.js apps with admin systems  
+- 🤖 **AI DevOps Pipelines** — RAG systems with pgvector, Ollama. Used Python & n8n  
+- ⚙️ **DevOps Labs** — System Adminstator, Jenkins, Docker, Kubernetes clusters, monitoring & automation
 
 ---
 
