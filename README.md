@@ -6,11 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://tonyportfolio-roan.vercel.app/&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1r1rizk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
