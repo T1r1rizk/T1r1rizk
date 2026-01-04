@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t1r1rizk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://tonyportfolio-roan.vercel.app/&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1r1rizk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -109,12 +109,11 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 
 ### ⚙️ DevOps, Cloud & Infrastructure
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/452054/linux.svg" width="40"/>
+  <img src="https://hexmos.com/freedevtools/svg_icons/docker/docker-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png?20190926210707" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1024px-Nginx_logo.svg.png?20170311021525" width="40"/>
 </p>
 
 ---
@@ -159,8 +158,8 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 
 ### 🤖 Automation & AI Systems
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1000px-N8n-logo-new.svg.png?20230204003316" width="40"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" width="40"/>
 </p>
 
 ---
@@ -174,7 +173,7 @@ Strong background in **backend & mobile development**, enabling deep collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/obsidian/obsidian-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1024px-2023_Obsidian_logo.svg.png?20230604143825" width="40"/>
 </p>
 
 ---
@@ -182,7 +181,7 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 ### 🖥️ System & Security Utilities
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/452054/linux.svg" width="40"/>
 </p>
 
 - 🔐 **LuLu Firewall**
@@ -205,7 +204,11 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/t1r1rizk/t1r1rizk/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </p>
 
 ---
