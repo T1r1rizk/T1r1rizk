@@ -120,9 +120,8 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 
 ### 🔐 DevSecOps & Cybersecurity
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sonarsource-1.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6233056?s=280&v=4" width="40"/>
 </p>
 
 ---
@@ -198,18 +197,6 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 - 🏠 **Real Estate Platforms** — React / Next.js apps with admin systems  
 - 🤖 **AI DevOps Pipelines** — RAG systems with pgvector, Ollama, Python & n8n  
 - ⚙️ **DevOps Labs** — Linux, Jenkins, Docker, Kubernetes, monitoring & automation
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-</p>
 
 ---
 
