@@ -2,17 +2,27 @@
 <h3 align="center">🔐 DevSecOps Engineer | Cloud • Security • Automation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=t1r1rizk&label=Profile%20views&color=0e75b6&style=flat" alt="t1r1rizk" />
+  <img src="https://komarev.com/ghpvc/?username=t1r1rizk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t1r1rizk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1r1rizk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🚀 Professional Summary
+
 DevSecOps Engineer with hands-on experience in **Linux system administration, containerized applications, CI/CD pipelines, Kubernetes clusters, monitoring stacks, and secure infrastructure design**.
 
 Strong background in **backend & mobile development**, enabling deep collaboration between development and operations. Passionate about **cloud security, automation, and AI-powered DevOps workflows**.
 
-- 🎓 DevSecOps Courses (Red Hat • Linux • Bash • Python • CI/CD Pipelines (Jenkins & Github Actions) • Git/Github • Docker • Kubernetes • Observability Stack (Grafana, Prometheus, Loki) • Security)
+- 🎓 DevSecOps Courses (Red Hat • Linux • Bash • Python • CI/CD Pipelines (Jenkins & GitHub Actions) • Git/GitHub • Docker • Kubernetes • Observability Stack (Grafana, Prometheus, Loki) • Security)
 - 🐧 Strong Linux & system internals knowledge
 - ⚙️ Production-style container & Kubernetes environments
 - 🔐 Security-first mindset (DevSecOps)
@@ -53,6 +63,10 @@ Strong background in **backend & mobile development**, enabling deep collaborati
   - LangChain / LangGraph concepts
 - Workflow automation using **n8n**
 - Experimenting with **AI agents for DevOps tasks**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="360" />
+</p>
 
 ---
 
@@ -100,8 +114,6 @@ Strong background in **backend & mobile development**, enabling deep collaborati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
 
@@ -111,16 +123,15 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📊 Monitoring, Logging & Observability
+### 📊 Monitoring & Observability
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="40"/>
 </p>
 
 ---
@@ -129,10 +140,9 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" width="40"/>
 </p>
 
 ---
@@ -147,45 +157,55 @@ Strong background in **backend & mobile development**, enabling deep collaborati
 
 ---
 
-### 🔧 Tools & Platforms
+### 🤖 Automation & AI Systems
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🤖 AI, Automation & Data
+### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/obsidian/obsidian-original.svg" width="40"/>
 </p>
 
+---
+
+### 🖥️ System & Security Utilities
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="40"/>
+</p>
+
+- 🔐 **LuLu Firewall**
+- 🌐 **Remote Desktop Tools**
 
 ---
 
 ## 🚀 Selected Projects
 - ♻️ **EcoCycle App** — Flutter app promoting sustainable recycling  
-- 🚗 **RapidRescue** — Roadside assistance app  
+- 🚗 **RapidRescue** — Roadside assistance platform  
   - Flutter frontend  
   - FastAPI backend  
   - PostgreSQL + Docker  
-- 🏠 **Real Estate Platform** — React / Next.js apps with admin systems  
-- 🤖 **AI DevOps Pipelines** — RAG systems with pgvector, Ollama. Used Python & n8n  
-- ⚙️ **DevOps Labs** — System Adminstator, Jenkins, Docker, Kubernetes clusters, monitoring & automation
+- 🏠 **Real Estate Platforms** — React / Next.js apps with admin systems  
+- 🤖 **AI DevOps Pipelines** — RAG systems with pgvector, Ollama, Python & n8n  
+- ⚙️ **DevOps Labs** — Linux, Jenkins, Docker, Kubernetes, monitoring & automation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t1r1rizk&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1r1rizk&layout=compact&theme=tokyonight" />
+  <img src="https://github.com/t1r1rizk/t1r1rizk/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
